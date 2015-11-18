@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">getSensorList</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="Description">Obtain the sensor list from an Android Device.&lt;br&gt;It just provide a plain listing.</string>
+    <string name="made_by">CrisAndSoft</string>
+
+</resources>
